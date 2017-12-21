@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/epc_off_rssi_child"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/epc_off_rssi_times"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.18"
+        android:textSize="18sp"
+        android:textColor="#313031"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/epc_off_rssi_data"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.82"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="#313031"
+        android:singleLine="true" />
+
+</LinearLayout>

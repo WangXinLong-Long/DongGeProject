@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\gradle-3.3-bin\cache\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.1_5a1fc54e40d854044ebfaab4d827b93b409ccf87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gradle-3.3-bin\cache\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava2\2.2.0\3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c\adapter-rxjava2-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava2-2.2.0_607a1a07a36d6365eba1c7d9f7854d3803967605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\17ebb261d7db55ec8944a22e03cb2fac6ab594aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ec7a3c15364f31447829718faea161f25f3dc37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_41ab6d267fba21ddb4c865006e8fde83a13f4ebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\a9845f561eb4c9770deeabbf244bdf3c8f26f048\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c98462d54f4aac20b890abbb70f6613e4f72b5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\libs\invengo.system.ctrl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1e8c3f74283446c2540bb44f029d776a6cbb60d">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\2\invengo.system.ctrl_82c4749fdc6a38222db28ec1a11a572e25e44928\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gradle-3.3-bin\cache\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_6a814bbbdf32f9dcf8b17a6bfb3ae38b3cae203e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gradle-3.3-bin\cache\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_ac3ba72f585b57863626d1437eab552dfa3b9544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\88c29a0723dc8ff15328dac91da300189fc60961\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b6540d11077f2c28c5d594184d14dcd28d08e9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\libs\invengo.irp1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="616131873fc29bd9ba63edc1a437990c806a4b3f">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\2\invengo.irp1_39fa0529541117f4d022c6c244c7ddd5c06231e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\libs\invengo.system.device.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e54e85b263c72f314d6cf7cc87f16cbff0b679a">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\2\invengo.system.device_ebb4b25970b79ba932aebc5773279558295c0543\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gradle-3.3-bin\cache\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.2.0\6303d085f1da877f8cd49ae36ffc49db2ab59f4f\converter-scalars-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6303d085f1da877f8cd49ae36ffc49db2ab59f4f">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-scalars-2.2.0_000721f2bfc2dc8d9d0f4756f4e5002beac858f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gradle-3.3-bin\cache\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_ccd0adc1bb9c8794de67ace771a5a0e8ed61ec71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gradle-3.3-bin\cache\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.1\feab46062803513d6a8307c74b0084265855de1a\logging-interceptor-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="feab46062803513d6a8307c74b0084265855de1a">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.8.1_f187b399a787a5c35acefda95cd5c51b0e8b7b30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gradle-3.3-bin\cache\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_551df7bedbb731b4ff4a3c538cc7622446cad67c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\ea7a433bf849215b56a78388859cf4f912c071e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3abb1c945e1129c6924a8415f3130c4e444ac19b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\7a6aa041eca70f4a9ec553f9208dc2b9788e5688\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c991011291b8d32a8da95012ebbba341676c2e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\libs\invengo.util.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="23683dc4fb6d1defdc0c8e4b64324c0a1032810d">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\2\invengo.util_4e127f3832c87c6b2eef526b3b6dbe7b452f0c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\libs\ch.ntb.usb-0.5.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2484478a2501ec59ba0984aa30f752f5d72e84b">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\2\ch.ntb.usb-0.5.9_391995c54c35a8bc56588f4c2fa0d34729a27dd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\e86032c91a033f060269cc64a1b9bff3b4b2995b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_581b0a60d27f9300febf9a59471be5f6f056cb18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\2c9e6b6edf71bf92ba37047d5b5b13e5f1de04d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10502be6ad887f905984f4ecdb4510436b7a20a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gradle-3.3-bin\cache\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_3e638530cbb4c211bbf0aa01b264916e9657846a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gradle-3.3-bin\cache\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.7\21734c0092a5d3c3ec99510e50c1ff76bdf0c65a\rxjava-2.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21734c0092a5d3c3ec99510e50c1ff76bdf0c65a">
+        <dex dex="C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.7_fa96434471f7ef615dabb3569fc07bfe93e8fe83\classes.dex" />
+    </item>
+
+</items>

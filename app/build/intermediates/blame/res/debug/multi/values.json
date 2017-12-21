@@ -1,0 +1,581 @@
+[
+    {
+        "outputFile": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 38,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 52,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 52,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 53,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 53,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 64,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 872,
+                        "endColumn": 64,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 52,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 819,
+                        "endColumn": 49,
+                        "endOffset": 867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 48,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 36,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 535,
+                        "endColumn": 36,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 38,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 38,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 59,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1316,
+                        "endColumn": 59,
+                        "endOffset": 1371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 52,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 52,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 43,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 49,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 56,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 56,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 658,
+                    "endColumn": 41,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 41,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 49,
+                    "endOffset": 745
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1213,
+                        "endColumn": 49,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 750,
+                    "endColumn": 52,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 49,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 49,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 50,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 50,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 55,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1376,
+                        "endColumn": 55,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 36,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 36,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endColumn": 45,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 45,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 36,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 36,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 35,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 35,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 58,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 58,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endColumn": 59,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endColumn": 59,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endColumn": 35,
+                    "endOffset": 1266
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 35,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1271,
+                    "endColumn": 49,
+                    "endOffset": 1316
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 49,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1321,
+                    "endColumn": 56,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endColumn": 56,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endColumn": 49,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 49,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1714
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1719,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 1874
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

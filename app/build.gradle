@@ -1,0 +1,55 @@
+apply plugin: 'com.android.application'
+apply plugin: 'me.tatarka.retrolambda'
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+
+    configurations.all {
+        resolutionStrategy.force "com.google.code.findbugs:jsr305:1.3.9"
+    }
+    defaultConfig {
+        applicationId "com.invengo.sample"
+        minSdkVersion 17
+        targetSdkVersion 25
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+//    compileOptions {
+//        targetCompatibility 1.8
+//        sourceCompatibility 1.8
+//    }
+    compileOptions {
+        targetCompatibility 1.8
+        sourceCompatibility 1.8
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.squareup.retrofit2:retrofit:2.3.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.2.0'
+    compile "io.reactivex.rxjava2:rxjava:2.0.7"
+    compile "io.reactivex.rxjava2:rxandroid:2.0.1"
+    compile "com.squareup.retrofit2:converter-scalars:2.2.0"
+    compile "com.squareup.retrofit2:adapter-rxjava2:2.2.0"
+    compile "com.squareup.okhttp3:logging-interceptor:3.8.1"
+//    implementation files('src/main/jniLibs/ch.ntb.usb-0.5.9.jar')
+//    implementation files('src/main/jniLibs/invengo.irp1.jar')
+//    implementation files('src/main/jniLibs/invengo.system.ctrl.jar')
+//    implementation files('src/main/jniLibs/invengo.system.device.jar')
+//    implementation files('src/main/jniLibs/invengo.util.jar')
+//    implementation files('src/main/jniLibs/xUtils-2.6.14.jar')
+//    implementation files('src/main/jniLibs/gson-2.2.4.jar')
+//    implementation files('libs/ch.ntb.usb-0.5.9.jar')
+//    implementation files('libs/invengo.irp1.jar')
+//    implementation files('libs/invengo.system.ctrl.jar')
+//    implementation files('libs/invengo.system.device.jar')
+//    implementation files('libs/invengo.util.jar')
+}
