@@ -37,6 +37,7 @@ import android.widget.ImageView;
 
 
 import com.invengo.app.Appli;
+import com.invengo.sample.R;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -795,14 +796,14 @@ public class Utils {
      * @param s
      * @return
      */
-//    public static String handlerPromptContent(String s) {
-//        if (!TextUtils.isEmpty(s)) {
-//            if (s.contains("failed to connect to") || s.contains("502") || s.contains("404") || s.contains("failed to connect to")
-//                    || s.contains("No address associated with hostname"))
-//                s = Appli.getContext().getString(R.string.timeout_str);
-//        }
-//        return s;
-//    }
+    public static String handlerPromptContent(String s) {
+        if (!TextUtils.isEmpty(s)) {
+            if (s.contains("failed to connect to") || s.contains("502") || s.contains("404") || s.contains("failed to connect to")
+                    || s.contains("No address associated with hostname"))
+                s = Appli.getContext().getString(R.string.timeout_str);
+        }
+        return s;
+    }
 
     /**
      * this screeshots form

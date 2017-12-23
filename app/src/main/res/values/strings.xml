@@ -29,6 +29,8 @@
     <string name="connected_rebuild">连接建立33</string>
     <string name="connected_not_rebuild">连接没有建立222</string>
     <string name="net_error_msg_unknow_str">错误</string>
+    <string name="timeout_str">time_out</string>
+    <string name="nav_back_again_finish">再按一次退出</string>
 
 
 </resources>

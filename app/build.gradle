@@ -40,6 +40,8 @@ dependencies {
     compile "com.squareup.retrofit2:converter-scalars:2.2.0"
     compile "com.squareup.retrofit2:adapter-rxjava2:2.2.0"
     compile "com.squareup.okhttp3:logging-interceptor:3.8.1"
+    compile "com.trello.rxlifecycle2:rxlifecycle-components:2.0.1"
+    compile "com.android.support:recyclerview-v7:25.3.1"
 //    implementation files('src/main/jniLibs/ch.ntb.usb-0.5.9.jar')
 //    implementation files('src/main/jniLibs/invengo.irp1.jar')
 //    implementation files('src/main/jniLibs/invengo.system.ctrl.jar')
