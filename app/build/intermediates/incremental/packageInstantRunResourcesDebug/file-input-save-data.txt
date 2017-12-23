@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Sat Dec 23 20:05:45 CST 2017
+2.base=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listview_epc_off_rssi_item.xml
+2.set=ANDROID_RESOURCE
+4.base=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=9
+0.file=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\invengo_logo.png
+4.set=ANDROID_RESOURCE
+6.base=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\detail.xml
+1.set=ANDROID_RESOURCE
+7.base=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\list_item_shape.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\myspinner.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

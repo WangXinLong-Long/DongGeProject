@@ -17,7 +17,6 @@ ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:2:1-38:12
 		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\9fa306909bf879606b28bd8602cb77e16b6cb2be\output\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\78038451108403a5ea8223079cf829b4ac824ea2\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\3a95c3f0f87d03f2984b01ca757efa0cf4a5d450\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\74d017dd83e3a2aba1b3ab2688929da921079873\output\AndroidManifest.xml:21:5-23:63
