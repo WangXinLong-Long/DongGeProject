@@ -1,7 +1,15 @@
 [
     {
+        "merged": "E:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_shape.xml",
+        "source": "E:\\workGit\\DongGeProject\\app\\src\\main\\res\\drawable\\list_item_shape.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_shape.xml",
         "source": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\drawable\\list_item_shape.xml"
+    },
+    {
+        "merged": "E:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\invengo_logo.png",
+        "source": "E:\\workGit\\DongGeProject\\app\\src\\main\\res\\drawable\\invengo_logo.png"
     },
     {
         "merged": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\invengo_logo.png",

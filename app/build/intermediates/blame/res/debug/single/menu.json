@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "E:\\workGit\\DongGeProject\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
         "source": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\menu\\activity_main.xml"
     }

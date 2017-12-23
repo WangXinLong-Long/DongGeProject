@@ -1,109 +1,110 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:3:5-33
-		INJECTED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.android\build-cache\e86032c91a033f060269cc64a1b9bff3b4b2995b\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL\.android\build-cache\ea7a433bf849215b56a78388859cf4f912c071e5\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL\.android\build-cache\2c9e6b6edf71bf92ba37047d5b5b13e5f1de04d3\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL\.android\build-cache\88c29a0723dc8ff15328dac91da300189fc60961\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL\.android\build-cache\a9845f561eb4c9770deeabbf244bdf3c8f26f048\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL\.android\build-cache\7a6aa041eca70f4a9ec553f9208dc2b9788e5688\output\AndroidManifest.xml:21:5-23:58
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\DELL\.android\build-cache\17ebb261d7db55ec8944a22e03cb2fac6ab594aa\output\AndroidManifest.xml:19:5-43
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\9fa306909bf879606b28bd8602cb77e16b6cb2be\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\78038451108403a5ea8223079cf829b4ac824ea2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\3a95c3f0f87d03f2984b01ca757efa0cf4a5d450\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\74d017dd83e3a2aba1b3ab2688929da921079873\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\a3f2ea66a87e714ec15cf2adbe9816dd5e72c7d8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\729ef74c3df4c7c5d24e3c84e366c559b52753ca\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\ddd25761f5fd906109a7163fd4d13aec68a1132e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.android\build-cache\2ee123277810c28309aec0d8c2acc1a576997d92\output\AndroidManifest.xml:19:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.android\build-cache\e86032c91a033f060269cc64a1b9bff3b4b2995b\output\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\78038451108403a5ea8223079cf829b4ac824ea2\output\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml
+		INJECTED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:11:5-67
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:11:22-65
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:11:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:12:5-73
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:12:5-73
 	android:name
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:12:22-71
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:12:22-71
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:13:5-80
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:13:5-80
 	android:name
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:13:22-78
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:14:2-63
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:14:2-63
 	android:name
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:14:19-61
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:14:19-61
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:15:2-75
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:15:2-75
 	android:name
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:15:19-73
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:15:19-73
 application
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:17:5-36:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.android\build-cache\e86032c91a033f060269cc64a1b9bff3b4b2995b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL\.android\build-cache\ea7a433bf849215b56a78388859cf4f912c071e5\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL\.android\build-cache\2c9e6b6edf71bf92ba37047d5b5b13e5f1de04d3\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL\.android\build-cache\88c29a0723dc8ff15328dac91da300189fc60961\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL\.android\build-cache\a9845f561eb4c9770deeabbf244bdf3c8f26f048\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL\.android\build-cache\7a6aa041eca70f4a9ec553f9208dc2b9788e5688\output\AndroidManifest.xml:29:5-20
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:17:5-36:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\78038451108403a5ea8223079cf829b4ac824ea2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\3a95c3f0f87d03f2984b01ca757efa0cf4a5d450\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\74d017dd83e3a2aba1b3ab2688929da921079873\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\a3f2ea66a87e714ec15cf2adbe9816dd5e72c7d8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\729ef74c3df4c7c5d24e3c84e366c559b52753ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\ddd25761f5fd906109a7163fd4d13aec68a1132e\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:20:9-41
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:20:9-41
 	android:allowBackup
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:18:9-35
 	android:icon
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:19:9-46
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:19:9-46
 	android:theme
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:22:9-40
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:22:9-40
 	android:name
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:21:9-45
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:21:9-45
 activity#com.invengo.sample.MainActivity
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:23:9-33:20
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:23:9-33:20
 	android:screenOrientation
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:25:13-49
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:25:13-49
 	android:label
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:27:13-45
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:27:13-45
 	android:windowSoftInputMode
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:26:13-54
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:26:13-54
 	android:name
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:24:13-59
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:24:13-59
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:29:17-69
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:31:17-77
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:31:27-74
 activity#com.invengo.sample.Detail
-ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:34:9-71
+ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:34:9-71
 	android:name
-		ADDED from C:\Users\DELL\Desktop\RFIDBluetoothSample1\app\src\main\AndroidManifest.xml:34:19-59
+		ADDED from E:\workGit\DongGeProject\app\src\main\AndroidManifest.xml:34:19-59
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.android\build-cache\e86032c91a033f060269cc64a1b9bff3b4b2995b\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL\.android\build-cache\ea7a433bf849215b56a78388859cf4f912c071e5\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL\.android\build-cache\2c9e6b6edf71bf92ba37047d5b5b13e5f1de04d3\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL\.android\build-cache\88c29a0723dc8ff15328dac91da300189fc60961\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL\.android\build-cache\a9845f561eb4c9770deeabbf244bdf3c8f26f048\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL\.android\build-cache\7a6aa041eca70f4a9ec553f9208dc2b9788e5688\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\78038451108403a5ea8223079cf829b4ac824ea2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\3a95c3f0f87d03f2984b01ca757efa0cf4a5d450\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\74d017dd83e3a2aba1b3ab2688929da921079873\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\a3f2ea66a87e714ec15cf2adbe9816dd5e72c7d8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\729ef74c3df4c7c5d24e3c84e366c559b52753ca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\ddd25761f5fd906109a7163fd4d13aec68a1132e\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.android\build-cache\e86032c91a033f060269cc64a1b9bff3b4b2995b\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\78038451108403a5ea8223079cf829b4ac824ea2\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.android\build-cache\e86032c91a033f060269cc64a1b9bff3b4b2995b\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\78038451108403a5ea8223079cf829b4ac824ea2\output\AndroidManifest.xml:26:9-47

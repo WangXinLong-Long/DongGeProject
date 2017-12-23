@@ -76,7 +76,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTest/shaders" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/assets" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/blame" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/classes" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
@@ -86,38 +85,36 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/multi-dex" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/shaders" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/transforms" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
-      <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="com.android.support:multidex-1.0.1" level="project" />
     <orderEntry type="library" exported="" name="io.reactivex.rxjava2:rxjava:2.0.7@jar" level="project" />
+    <orderEntry type="library" exported="" name="__local_jars__:E.\workGit\DongGeProject\app\libs\ch.ntb.usb-0.5.9.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="com.android.support:multidex-instrumentation-1.0.1" level="project" />
     <orderEntry type="library" exported="" name="com.squareup.retrofit2:converter-scalars:2.2.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="__local_jars__:E.\workGit\DongGeProject\app\libs\invengo.util.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-core-ui-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-compat-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="com.squareup.okhttp3:okhttp:3.8.1@jar" level="project" />
+    <orderEntry type="library" exported="" name="__local_jars__:E.\workGit\DongGeProject\app\libs\invengo.irp1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-core-utils-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="com.google.code.gson:gson:2.7@jar" level="project" />
     <orderEntry type="library" exported="" name="com.squareup.okio:okio:1.13.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:C.\Users\DELL\Desktop\RFIDBluetoothSample1\app\libs\invengo.system.ctrl.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-v4-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-fragment-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="com.squareup.retrofit2:retrofit:2.3.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="__local_jars__:E.\workGit\DongGeProject\app\libs\invengo.system.ctrl.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-media-compat-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="com.squareup.retrofit2:converter-gson:2.2.0@jar" level="project" />
     <orderEntry type="library" exported="" name="io.reactivex.rxjava2:rxandroid-2.0.1" level="project" />
     <orderEntry type="library" exported="" name="com.squareup.okhttp3:logging-interceptor:3.8.1@jar" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:C.\Users\DELL\Desktop\RFIDBluetoothSample1\app\libs\invengo.irp1.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:C.\Users\DELL\Desktop\RFIDBluetoothSample1\app\libs\invengo.util.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:C.\Users\DELL\Desktop\RFIDBluetoothSample1\app\libs\invengo.system.device.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="org.reactivestreams:reactive-streams:1.0.0@jar" level="project" />
     <orderEntry type="library" exported="" name="com.squareup.retrofit2:adapter-rxjava2:2.2.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:C.\Users\DELL\Desktop\RFIDBluetoothSample1\app\libs\ch.ntb.usb-0.5.9.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-annotations:25.3.1@jar" level="project" />
+    <orderEntry type="library" exported="" name="__local_jars__:E.\workGit\DongGeProject\app\libs\invengo.system.device.jar:unspecified@jar" level="project" />
   </component>
 </module>

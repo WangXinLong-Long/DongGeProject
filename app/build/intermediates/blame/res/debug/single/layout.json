@@ -1,11 +1,27 @@
 [
     {
+        "merged": "E:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workGit\\DongGeProject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_epc_off_rssi_item.xml",
+        "source": "E:\\workGit\\DongGeProject\\app\\src\\main\\res\\layout\\listview_epc_off_rssi_item.xml"
+    },
+    {
+        "merged": "E:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myspinner.xml",
+        "source": "E:\\workGit\\DongGeProject\\app\\src\\main\\res\\layout\\myspinner.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
         "source": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\layout\\detail.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myspinner.xml",
         "source": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\src\\main\\res\\layout\\myspinner.xml"
+    },
+    {
+        "merged": "E:\\workGit\\DongGeProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "E:\\workGit\\DongGeProject\\app\\src\\main\\res\\layout\\detail.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\Desktop\\RFIDBluetoothSample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_epc_off_rssi_item.xml",
